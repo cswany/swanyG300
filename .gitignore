@@ -75,3 +75,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+assignment1_fpslevel/Saved/
+assignment1_fpslevel/Intermediate/
